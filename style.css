@@ -1,0 +1,32 @@
+#pihapto {
+    color: red;
+}
+
+body {
+    text-align: center;
+    background-image: linear-gradient(lightskyblue, azure)
+}
+
+#imgob {
+    width: 200px;
+}
+
+#imgobt {
+    width: 200px
+}
+
+.werty ul:hover {
+    background-color: white
+}
+
+.lk {
+    position: absolute;
+    list-style: none;
+    padding: 7.5px;
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+}
+
+#ertyuiop {
+    background-image: linear-gradient(lightskyblue, azure);
+}
